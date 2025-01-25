@@ -74,3 +74,8 @@ ChatApp is a chat application built using **React Native**. It leverages **Fireb
 - **React Navigation**: For seamless navigation between screens.
 - **React Native Paper**: A Material Design library for UI components.
 - **Gifted Chat**: For advanced chat UI and features.
+
+## 🖼️ Screenshot
+
+### 💬 Chat Screen
+![Chat Screen](images/Screenshot_1737795971.png)
