@@ -78,4 +78,4 @@ ChatApp is a chat application built using **React Native**. It leverages **Fireb
 ## 🖼️ Screenshot
 
 ### 💬 Chat Screen
-![Chat Screen](images/Screenshot_1737795971.png)
+<img src="images/Screenshot_1737795971.png" alt="Chat Screen" width="300" />
