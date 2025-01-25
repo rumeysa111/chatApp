@@ -30,27 +30,12 @@ ChatApp is a chat application built using **React Native**. It leverages **Fireb
    npm install
    ```
 
-3. **Set up Firebase**:
-   - Go to Firebase Console and create a new project.
-   - Enable Firestore Database and Firebase Authentication.
-   - Add your Firebase configuration to the app:
-   ```javascript
-   firebase.initializeApp({
-     apiKey: "YOUR_API_KEY",
-     authDomain: "YOUR_AUTH_DOMAIN",
-     projectId: "YOUR_PROJECT_ID",
-     storageBucket: "YOUR_STORAGE_BUCKET",
-     messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-     appId: "YOUR_APP_ID",
-   });
-   ```
-
-4. **Start the development server**:
+3. **Start the development server**:
    ```bash
    npm start
    ```
 
-5. **Run the app**:
+4. **Run the app**:
    - For Android: `npm run android`
    - For iOS: `npm run ios`
    - For Web: `npm run web`
